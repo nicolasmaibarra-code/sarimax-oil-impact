@@ -1,6 +1,6 @@
 # Forecast de Producción de Crudo (SARIMAX) y Valorización de Riesgo
 
-Este repositorio contiene un análisis predictivo de series temporales enfocado en la producción mensual de petróleo crudo en Estados Unidos. A diferencia de un ejercicio estadístico tradicional, el proyecto traduce el error de pronóstico a impacto financiero directo (USD), brindando una herramienta cuantificable para la toma de decisiones, planificación logística y cobertura de riesgos (hedging).
+Este repositorio contiene un análisis predictivo de series temporales enfocado en la producción mensual de petróleo crudo en Estados Unidos. Luego se traduce el error de pronóstico a impacto financiero directo (USD), brindando una herramienta cuantificable para la toma de decisiones, planificación logística y cobertura de riesgos (hedging).
 
 ## Resumen Ejecutivo
 
